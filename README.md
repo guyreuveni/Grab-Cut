@@ -1,2 +1,3 @@
 # Grab-Cut
-GrabCut is an image segmentation method based on graph cuts and clustering using Gaussians mixture model.
+An implementation of the GrabCut algorithm - an algorithm for extracting an object from the background.
+GrabCut is based on graph cuts and clustering using Gaussians mixture model.
